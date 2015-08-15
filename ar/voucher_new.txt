@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+مرحبا {firstname} {lastname}، 
+
+فيما يلي الرمز الخاص بالفاتورة:
+{voucher_num}
+
+Simply copy/paste this code during the payment process for your next
+order. 		 
+
+{shop_name} [{shop_url}] 
